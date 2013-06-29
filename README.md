@@ -3,11 +3,12 @@ vim-mongoid-syntax
 
 mongoid gem syntax file for Vim
 
-`:MongoidSyntaxOn`
-==================
+## commands
+
+### `:MongoidSyntaxOn`
 
 Turn on syntax highlight for Mongoid.
 
-`:MongoidSyntaxOff`
+### `:MongoidSyntaxOff`
 
 Turn off sysntax highlight for Mongoid.
